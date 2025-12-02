@@ -1,0 +1,9 @@
+PySide6==6.9.2
+exifread==3.0.0
+Pillow>=10.0.0
+python-docx==1.1.0
+openpyxl==3.1.2
+PyPDF2==3.0.1
+olefile==0.46
+filetype==1.2.0
+
